@@ -1,4 +1,4 @@
-# Saoussen Badjadi
+# Sawsen Badjadi
 
 ### Computer Science Engineer · AI Operations & Workflow Systems
 
